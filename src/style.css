@@ -1,0 +1,90 @@
+h5.city-title {
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.input-form {
+  width: 700px;
+}
+
+.input-city {
+  width: 600px;
+  height: 30px;
+  margin-bottom: 25px;
+  border: 1px solid #9d9b9b;
+  border-radius: 4px;
+}
+
+.go-button {
+  width: 80px;
+  height: 41px;
+  border: 1px solid #9d9b9b;
+  border-radius: 4px;
+  background-color: #f0fbff;
+}
+
+.container-whole {
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  max-width: 900px;
+  height: 100%;
+  background-color: #acdcee;
+  padding: 30px 30px 60px 30px;
+  border: 1px solid #9d9b9b;
+  border-radius: 4px;
+  font-family: "Noto Serif JP", serif;
+  color: #475053;
+}
+
+.container {
+  padding: 30px 10px 0px 10px;
+  font-family: "Noto Serif JP", serif;
+}
+
+.input-city {
+  max-width: 840px;
+  padding: 20px 10px;
+}
+
+.temperature-icon {
+  font-size: 36px;
+}
+
+.temperature {
+  display: inline;
+  font-size: 36px;
+}
+
+.five-days {
+  background-color: #f0fbff;
+  color: #475053;
+  text-align: center;
+  margin: 5px;
+}
+
+.week-icon {
+  font-size: 48px;
+  color: #2e94b9;
+}
+
+.week-text {
+  font-size: 24px;
+}
+
+.card-city {
+  background-color: #f0fbff;
+}
+
+.city-text {
+  font-size: 24 px;
+}
+
+.week-icon-sun {
+  font-size: 24px;
+  color: #2e94b9;
+}
+
+.sunrise {
+  height: 164px;
+}
